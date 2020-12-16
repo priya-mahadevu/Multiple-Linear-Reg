@@ -1,2 +1,2 @@
-# Multiple-Linear-Reg
+# RegressionModels
 Machine learning multiple linear regression Models
